@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @lukistelar
-- 👀 I’m interested in Data Visualization using Python
-- 🌱 I’m currently learning Data Analyst
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python
-- 📫 How to reach me @lukiridzkiana
+- 📫 How to reach me @lukistelar
 
 <!---
 lukistelar/lukistelar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
